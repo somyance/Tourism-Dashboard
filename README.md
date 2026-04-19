@@ -8,8 +8,8 @@ This dashboard contains 9 years of data i.e. from year 2014 to year 2023.
 Here are my Key findings:
 1)	Domestic tourism in India expanded until 2019, peaked, then dropped sharply during Covid(2020-2021) and recovered significantly by 2023.
 2)	Top Performing States: Uttar Pradesh (Share of total 2023-21%)
-                                           Tamil Nadu (Share of total 2023-12%)
-                                            Karnataka (Share of total 2023-12%)
+                           Tamil Nadu (Share of total 2023-12%)
+                           Karnataka (Share of total 2023-12%)
   	
 Anomalies:
 1)	Incomplete “Others” category
