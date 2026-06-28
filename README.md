@@ -25,4 +25,5 @@ The Dashboard was built using following tools and Techniques:
 **Data Source**
 Downloaded dataset from ndap.niti.gov.in
 
+<img width="1167" height="672" alt="Screenshot 2026-06-28 162613" src="https://github.com/user-attachments/assets/4952c21f-f466-4631-9d6f-4b8e3c3c83c5" />
 
